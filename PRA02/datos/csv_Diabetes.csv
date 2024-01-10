@@ -1,0 +1,97 @@
+Edad,Sexo,Diabetes,Numero
+18-24,Female,No,0.9706634205721242
+18-24,Female,"No, pre-diabetes or borderline diabetes",0.008642726719415702
+18-24,Female,Yes,0.011442483262325016
+18-24,Female,"Yes, but female told only during pregnancy",0.009251369446135119
+18-24,Male,No,0.984999044525129
+18-24,Male,"No, pre-diabetes or borderline diabetes",0.005541754251863176
+18-24,Male,Yes,0.009268106248805657
+18-24,Male,"Yes, but female told only during pregnancy",0.00019109497420217848
+25-29,Female,No,0.9471761730823265
+25-29,Female,"No, pre-diabetes or borderline diabetes",0.012644001123911211
+25-29,Female,Yes,0.020370890699634728
+25-29,Female,"Yes, but female told only during pregnancy",0.019808935094127563
+25-29,Male,No,0.9756446991404012
+25-29,Male,"No, pre-diabetes or borderline diabetes",0.007879656160458453
+25-29,Male,Yes,0.016356255969436486
+25-29,Male,"Yes, but female told only during pregnancy",0.00011938872970391595
+30-34,Female,No,0.9306035925471382
+30-34,Female,"No, pre-diabetes or borderline diabetes",0.013053665067499722
+30-34,Female,Yes,0.0254379114135892
+30-34,Female,"Yes, but female told only during pregnancy",0.030904830971772844
+30-34,Male,No,0.9673534072900158
+30-34,Male,"No, pre-diabetes or borderline diabetes",0.0075013206550449026
+30-34,Male,Yes,0.02514527205493925
+35-39,Female,No,0.9042152985434552
+35-39,Female,"No, pre-diabetes or borderline diabetes",0.015337127423555513
+35-39,Female,Yes,0.04070608662100897
+35-39,Female,"Yes, but female told only during pregnancy",0.039741487411980324
+35-39,Male,No,0.9530227561285282
+35-39,Male,"No, pre-diabetes or borderline diabetes",0.01181756030862389
+35-39,Male,Yes,0.03506201777517336
+35-39,Male,"Yes, but female told only during pregnancy",9.76657876745776e-05
+40-44,Female,No,0.8883334821030081
+40-44,Female,"No, pre-diabetes or borderline diabetes",0.01606712487726502
+40-44,Female,Yes,0.05962688565562796
+40-44,Female,"Yes, but female told only during pregnancy",0.035972507364098905
+40-44,Male,No,0.9225365665896844
+40-44,Male,"No, pre-diabetes or borderline diabetes",0.014915319476520401
+40-44,Male,Yes,0.06254811393379522
+45-49,Female,No,0.863
+45-49,Female,"No, pre-diabetes or borderline diabetes",0.020545454545454544
+45-49,Female,Yes,0.09227272727272727
+45-49,Female,"Yes, but female told only during pregnancy",0.024181818181818183
+45-49,Male,No,0.8841292134831461
+45-49,Male,"No, pre-diabetes or borderline diabetes",0.018158105939004816
+45-49,Male,Yes,0.09771268057784911
+50-54,Female,No,0.8438463911165947
+50-54,Female,"No, pre-diabetes or borderline diabetes",0.024521900061690315
+50-54,Female,Yes,0.11189080814312154
+50-54,Female,"Yes, but female told only during pregnancy",0.01974090067859346
+50-54,Male,No,0.8456591639871383
+50-54,Male,"No, pre-diabetes or borderline diabetes",0.02168356830736252
+50-54,Male,Yes,0.13257482067771456
+50-54,Male,"Yes, but female told only during pregnancy",8.244702778464837e-05
+55-59,Female,No,0.8163710777626194
+55-59,Female,"No, pre-diabetes or borderline diabetes",0.02510231923601637
+55-59,Female,Yes,0.14413369713506138
+55-59,Female,"Yes, but female told only during pregnancy",0.014392905866302865
+55-59,Male,No,0.8057339107062864
+55-59,Male,"No, pre-diabetes or borderline diabetes",0.02545916081827684
+55-59,Male,Yes,0.16880692847543677
+60-64,Female,No,0.7952737344569509
+60-64,Female,"No, pre-diabetes or borderline diabetes",0.03011373681419058
+60-64,Female,Yes,0.16306205433437446
+60-64,Female,"Yes, but female told only during pregnancy",0.01155047439448406
+60-64,Male,No,0.7807625089002524
+60-64,Male,"No, pre-diabetes or borderline diabetes",0.02867499514531685
+60-64,Male,Yes,0.1905624959544307
+65-69,Female,No,0.7849888104665175
+65-69,Female,"No, pre-diabetes or borderline diabetes",0.026740115912090433
+65-69,Female,Yes,0.17954897572731968
+65-69,Female,"Yes, but female told only during pregnancy",0.008722097894072417
+65-69,Male,No,0.7630411694883489
+65-69,Male,"No, pre-diabetes or borderline diabetes",0.03092397076279128
+65-69,Male,Yes,0.20603485974885988
+70-74,Female,No,0.7720891331620766
+70-74,Female,"No, pre-diabetes or borderline diabetes",0.028197622319134953
+70-74,Female,Yes,0.193739171993548
+70-74,Female,"Yes, but female told only during pregnancy",0.005974072525240457
+70-74,Male,No,0.7241715399610137
+70-74,Male,"No, pre-diabetes or borderline diabetes",0.0309802283486494
+70-74,Male,Yes,0.24484823169033695
+75-79,Female,No,0.7692105263157895
+75-79,Female,"No, pre-diabetes or borderline diabetes",0.030263157894736843
+75-79,Female,Yes,0.19403508771929825
+75-79,Female,"Yes, but female told only during pregnancy",0.006491228070175438
+75-79,Male,No,0.707576571735626
+75-79,Male,"No, pre-diabetes or borderline diabetes",0.030198817839871037
+75-79,Male,Yes,0.26211714132187
+75-79,Male,"Yes, but female told only during pregnancy",0.00010746910263299302
+80+,Female,No,0.8049669628616997
+80+,Female,"No, pre-diabetes or borderline diabetes",0.027796764638869903
+80+,Female,Yes,0.16146426672742462
+80+,Female,"Yes, but female told only during pregnancy",0.005772005772005772
+80+,Male,No,0.7448374340949033
+80+,Male,"No, pre-diabetes or borderline diabetes",0.03152460456942004
+80+,Male,Yes,0.22363796133567662
