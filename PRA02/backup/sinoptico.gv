@@ -1,0 +1,9 @@
+digraph sinoptico {
+	A [label=Inicio]
+	B [label="Paso 1"]
+	C [label="Paso 2"]
+	D [label=Fin]
+	A -> B
+	A -> C
+	B -> D
+}
